@@ -11,7 +11,7 @@ import java.util.Scanner;
  * Diga se ela é ou não um palíndromo.
  */
 
-public class Ex1 {
+public class Ex01 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
